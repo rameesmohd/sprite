@@ -4,6 +4,9 @@
     padding: 0%;
     box-sizing: border-box;
 }
+.pos{
+    position: absolute;
+}
 .header-section-1{
     position: fixed;
     height: 90px;
