@@ -1,0 +1,196 @@
+@import url("https://fast.fonts.net/cssapi/8a04dc22-85c7-4eaf-9d7a-6b23de89105b.css");
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.header-section-1{
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    background-color: #009b4e;
+    display: flex;
+}
+.header-section-2{
+    height: 531.65px;
+    width: 100%;
+    padding-top: 10%;
+    background-color: #1bb03e;
+    display: flex;
+}
+.body-section-1{
+    height: 586.5px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    /* align-items: center; */
+}
+.body-section-2{
+    height: 480px;
+    width: 100%;
+    background-color: #c7c7c7;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.footer{
+    height: 355.88;
+    width: 100%;
+    background-color: #028e48;
+    display: flex;
+    padding-top: 70px;
+}
+.header-section-1-left{
+    width: 50%;
+    height: 100%;
+    /* background-color: beige; */
+    display: flex;
+    
+    
+}
+.header-section-1-right{
+    width: 50%;
+    height: 100%;
+    /* background-color: rgb(141, 141, 25); */
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.mainIcon{
+    height: 50px;
+    width: 131.5px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.mianIconDiv{
+    width: 25%;
+    height: 100%;
+}
+.mainMenu{
+    width: 65%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: space-evenly;
+}
+.menuText{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    text-decoration: none;
+    
+}
+.menuText:hover{
+    color: black;
+}
+.socialMediaIcons{
+    width: 20px;
+    margin-right: 20px;
+}
+.loginIcon{
+    width: 20px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.header-section-2-left{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 170px;
+    padding-top: 75px;
+}
+.header-section-2-right{
+    width: 50%;
+    height: 100%;
+}
+.middleText{
+    color: #fff;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 40;
+}
+.learnMoreButton{
+    width: 150px;
+    height: 45px;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    margin-top: 25px;
+    color: #1fab40;
+}
+.spritImage{
+    width: 100%;
+    height: 100%;
+}
+.body-section-1-heading{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    margin-top: 33px;
+}
+.footer-left{
+    height: 75%;
+    width: 50%;
+    padding-top: 40px;
+    display: flex; 
+    
+}
+.footer-left-left{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content:right ;
+}
+.footer-left-right{
+    height: 100%;
+    width: 50%;
+}
+
+.footer-right{
+    height: 75%;
+    width: 50%;
+    padding-left: 250px;
+}
+.footer-bottom {
+    height: 25%;
+    width: 100%;
+    background-color: #028e48;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footerImage{
+    height: 137px;
+    width: 186px;
+    
+}
+.footerText{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    color: #fff;
+    font-size: 15;
+    margin-bottom: 10px;
+    margin-left: 25px;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+}
+.footerTextMain{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    color: #fff;
+    font-size: 15;
+    margin-bottom: 25px;
+}
+.footerIcons{
+    width: 23px;
+    margin-right: 20px;
+}
+#footerAdj{
+    width: 23px;
+    margin-right: 20px;
+    margin-left: 140px;
+}
